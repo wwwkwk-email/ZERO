@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c13afd23791440fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日本語/スピアヘッド/メディア/メディア.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "メディア"
-            }
-          },
-          {
             "id": "ce91233b04dbd0a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/Spearhead　／　スピアヘッド/Spearhead　／　スピアヘッド.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spearhead　／　スピアヘッド"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日本語/スピアヘッド/メディア/プッシュ　ー　シンギュラリティ/プッシュ　ー　シンギュラリティ.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -194,44 +179,43 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b863b94e41e30d6d",
+  "active": "ce91233b04dbd0a6",
   "lastOpenFiles": [
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/ウィーピングシー.md",
-    "日本語/Spearhead　／　スピアヘッド/Spearhead　／　スピアヘッド.md",
-    "日本語/Spearhead　／　スピアヘッド/Singularity　／　特異点/Singularity　／　特異点.md",
-    "日本語/日本語.md",
-    "日本語/Spearhead　／　スピアヘッド/Fiction　／　フィクション/Fiction　／　フィクション.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Media　／　メディア.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Push ー Singularity　／　プッシュ　ー　シンギュラリティ.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Weeping Sea　／　ウィーピングシー/Weeping Sea　／　ウィーピングシー.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Weeping Sea　／　ウィーピングシー",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Heartstring　／　ハートストリング.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/A./A..md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/1. HALF−LIFE：ONE/1. HALF−LIFE：ONE.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/0. HALF−LIFE：ZERO/0. HALF−LIFE：ZERO.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/X. HALF−LIFE：X/X. HALF−LIFE：X.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/X. HALF−LIFE：X",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/3. HALF−LIFE：THREE/3. HALF−LIFE：THREE.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/A. HALF−LIFE：ALYX/A. HALF−LIFE：ALYX.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/A. HALF−LIFE：ALYX",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/3. HALF−LIFE：THREE",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/0. HALF−LIFE：ZERO",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/TEAM FORTRESS/TEAM FORTRESS.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/1. HALF−LIFE：ONE",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/HALF−LIFE.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/2. HALF−LIFE：TWO/2. HALF−LIFE：TWO.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/2. HALF−LIFE：TWO/BOREALIS.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/2. HALF−LIFE：TWO/3. EPISODE 3.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/2. HALF−LIFE：TWO/2. EPISODE 2.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/2. HALF−LIFE：TWO/1. EPISODE 1.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/HALF−LIFE/2. HALF−LIFE：TWO",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/PORTAL/PORTAL.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/VALVE.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/VALVE/THE ORANGE BOX.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/PUSH ー SINGULARITY.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Onimai：I'm Now Your Sister!　／　お兄ちゃんはおしまい!.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Raven Daze　／　大鴉デイズ/Raven Daze　／　大鴉デイズ.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Raven Daze　／　大鴉デイズ/Ravenspire　／　大鴉スパイア.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Raven Daze　／　大鴉デイズ",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Media　／　メディア.md",
+    "日本語/Spearhead　／　スピアヘッド/Spearhead　／　スピアヘッド.md",
     "日本語/Spearhead　／　スピアヘッド/Fiction　／　フィクション",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Neverborn × Everborn『NV／EV』　／　ネヴァーボーン　×　エヴァーボーン（エンビー／イービー）.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Zero's Debt　／　ゼローズ・デット.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Our Cynosure　／　アウア シノシュア.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Spirit Realm Idiots　／　霊界のバカ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Spirit Realm Fools　／　スピリットレルムフールス.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Spirit Realm Skirmish　／　スピリットレルムスカーミッシュ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Spirit Droid Fools　／　ストレイドロイドフールス.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Bizarre Alien Legacy　／　ビザル エイリアンヌ レガシー.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/The Hanged King　／　絞首刑の王.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Neutralis　／　ニュートラリス.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/KATRINA：God of Sleep & Dreams　／　カトリーナ：眠りと夢のゴッド.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/STAR−HUNTER：Revengeance　／　スターハンター リベンジェンス.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Altered Velocity　／　アルタードベロシティ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Raven Daze　／　大鴉デイズ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/The Girl Who Calls Herself God　／　神と名乗る少女.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Heartstrings　／　ハートストリング.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Rococo & Harriet：Hell　／　ロココとハリエット：奈落.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/ENATowne　／　エナタウン　／　エナタウヌ.md",
-    "日本語/スピアヘッド/メディア/プッシュ　ー　シンギュラリティ/NV／EV　／　エンビー／イービー.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ",
-    "日本語/Spearhead　／　スピアヘッド/Singularity　／　特異点",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア",
-    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/PURGATORY EVE ／ NARAKU EVE/EVE × EVE/NARAKUEVE × EVEHARAPECO",
-    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/RPGMAKER/PURGATORY",
-    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/STUDIO GHIBLI/HOWL'S MOVING CASTLE",
-    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/GLITCH/MURDER DRONES",
-    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/STUDIO GHIBLI/SPIRITED AWAY",
-    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/GLITCH",
     "Untitled.canvas"
   ]
 }

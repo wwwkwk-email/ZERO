@@ -1,0 +1,1 @@
+[[Push ー Singularity　／　プッシュ　ー　シンギュラリティ]]

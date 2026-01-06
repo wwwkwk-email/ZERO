@@ -6,10 +6,8 @@
 - [[Zero's Debt　／　ゼローズ・デット]]
 - [[Neverborn × Everborn『NV／EV』　／　ネヴァーボーン　×　エヴァーボーン（エンビー／イービー）]]
 - [[ENATowne　／　エナタウン　／　エナタウヌ]]
-- [[Weeping Sea　／　ウィーピングシー]]：　人類滅亡後の海洋世界に生息する擬人化された生命体を中心とした、いくつかの名前のないプロジェクトのコレクション。
-	- [[Rococo & Harriet：Hell　／　ロココとハリエット：奈落]]
-	- [[Claus & May：Ark　／　クラウスとメイ：アーク]]
-- [[Heartstrings　／　ハートストリング]]
+- [[Weeping Sea　／　ウィーピングシー]]：　
+- [[Heartstring　／　ハートストリング]]
 - [[The Girl Who Calls Herself God　／　神と名乗る少女]]
 - [[Raven Daze　／　大鴉デイズ]]
 - [[Altered Velocity　／　アルタードベロシティ]]
@@ -25,4 +23,4 @@
 - [[Spirit Realm Fools　／　スピリットレルムフールス]]
 - [[Spirit Realm Idiots　／　霊界のバカ]]
 - [[Our Cynosure　／　アウア シノシュア]]
-- 
+- [[Onimai：I'm Now Your Sister!　／　お兄ちゃんはおしまい!]]
