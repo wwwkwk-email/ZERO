@@ -1,0 +1,1 @@
+publik domain or whatever u wanna call it

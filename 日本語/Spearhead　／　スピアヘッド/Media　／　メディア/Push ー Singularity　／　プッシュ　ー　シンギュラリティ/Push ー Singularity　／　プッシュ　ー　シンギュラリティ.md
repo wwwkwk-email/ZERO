@@ -51,3 +51,4 @@
 - [[T−Side　／　Ｔサイド]]
 - [[Tainted Stars　／　テインテッド・スターズ]]
 - [[Endless Unmaker　／　エンドレス・アンメーカー]]
+- [[Silentroom　／　サイレントルーム]]

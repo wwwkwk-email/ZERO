@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. ARCHIVE/Character Ideas.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Ideas"
+              "title": "README"
+            }
+          },
+          {
+            "id": "be577eba5ad02068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LICENSE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LICENSE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,14 +194,21 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ce91233b04dbd0a6",
+  "active": "be577eba5ad02068",
   "lastOpenFiles": [
+    "README.md",
+    "LICENSE.md",
+    "日本語/Spearhead　／　スピアヘッド/Spearhead　／　スピアヘッド.md",
+    "日本語/Spearhead　／　スピアヘッド/Archive　／　アーカイブ/Archive　／　アーカイブ.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Media　／　メディア.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Push ー Singularity　／　プッシュ　ー　シンギュラリティ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Endless Unmaker　／　エンドレス・アンメーカー.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Silentroom　／　サイレントルーム.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Toby Fox　／　トビー・フォックス/Undertale　／　アンダーテール/Undertale Soundcloud.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/PUSH ー SINGULARITY.md",
     "0. ARCHIVE/Character Ideas.md",
+    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Endless Unmaker　／　エンドレス・アンメーカー.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Tainted Stars　／　テインテッド・スターズ.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/T−Side　／　Ｔサイド.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Media　／　メディア.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Sakury　／　サクーリー.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Hotline 024　／　ホットライン・024.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Scorched Skylines　／　スコーチド・スカイラインス.md",
@@ -200,13 +222,6 @@
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Is PewDiePie the Joker From the Dark Knight？　／　イーズ・ピューディパイ・ザ・ジョーカー・フロム・ザ・ダーク・ナイト？.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Ashton's Omega　／　アシュトンのオメガ.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Sho−Kaster Show　／　ショー・キャスターのショー.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Star Entertainment　／　エンター・テインメント.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Paradise Lies　／　パラダイス・ライズ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Corda　／　コルダ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Monstrous　／　モンストラス.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/XYZ　／　エックス・ワイ・ゼット.md",
-    "日本語/Spearhead　／　スピアヘッド/Spearhead　／　スピアヘッド.md",
-    "日本語/日本語.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Glitch　／　グリッチ",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Joel Guerra　／　ジョエル・ゲラ/ENA　／　エナ",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Joel Guerra　／　ジョエル・ゲラ/Ena　／　エナ",
