@@ -1,2 +1,1 @@
-# ZERO
-various things
+various things　https://github.com/wwwkwk-email/ZERO/tree/main
