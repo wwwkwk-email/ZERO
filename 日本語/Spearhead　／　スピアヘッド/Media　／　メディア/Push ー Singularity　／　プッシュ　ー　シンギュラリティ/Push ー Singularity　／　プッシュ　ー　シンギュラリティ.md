@@ -25,3 +25,6 @@
 - [[Our Cynosure　／　アウア シノシュア]]
 - [[Onimai：I'm Now Your Sister!　／　お兄ちゃんはおしまい!]]
 - [[Junji Ito　／　伊藤潤二]]
+- [[Toby Fox　／　トビー・フォックス]]
+- [[Scott Cawthon　／　スコット・コーソン]]
+- [[Joel Guerra]]
