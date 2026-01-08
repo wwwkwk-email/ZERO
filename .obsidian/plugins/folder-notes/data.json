@@ -2,7 +2,7 @@
   "syncFolderName": false,
   "ctrlKey": true,
   "altKey": false,
-  "hideFolderNote": false,
+  "hideFolderNote": true,
   "templatePath": "",
   "autoCreate": true,
   "autoCreateFocusFiles": true,
