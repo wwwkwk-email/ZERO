@@ -1,1 +1,1 @@
-various things　https://github.com/wwwkwk-email/NULL/tree/main
+various things　https://github.com/wwwkwk-email/ZERO/tree/main
