@@ -5,7 +5,8 @@
 - ARIACHI：The Washed
 - ARIACHI：The Antlion
 - ARIACHI × MORA：The Antlion & the Bullet
-- ORION × ARTEMIS
+- ARTEMIS × ORION
+- 
 - HANK：The Bartender
 - LUGER ／ FLUX：The Mercenary
 - ANDY：The Crimson Angel
