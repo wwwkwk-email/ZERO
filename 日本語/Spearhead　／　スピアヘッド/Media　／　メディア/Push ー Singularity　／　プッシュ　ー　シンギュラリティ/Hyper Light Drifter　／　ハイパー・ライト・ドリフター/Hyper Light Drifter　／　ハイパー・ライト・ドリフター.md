@@ -1,0 +1,1 @@
+[[Hyper Light Hunter　／　ハイパー・ライト・ハンター]]

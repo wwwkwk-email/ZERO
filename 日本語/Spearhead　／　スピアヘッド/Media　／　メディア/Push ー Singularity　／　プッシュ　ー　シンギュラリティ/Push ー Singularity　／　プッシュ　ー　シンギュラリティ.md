@@ -12,7 +12,7 @@
 - [[Raven Daze　／　大鴉デイズ]]
 - [[Altered Velocity　／　アルタード・ベロシティ]]
 - [[Star-Hunter：Revengeance　／　スターハンター リベンジェンス]]
-- [[KATRINA：God of Sleep & Dreams　／　カトリーナ：眠りと夢のゴッド]]
+- [[Katrina：God of Sleep & Dreams　／　カトリーナ：眠りと夢のゴッド]]
 - [[Dream Girl：Hyper−Reality　／　ドリームガール：ハイパーリアリティー]]
 - [[Neutralis　／　ニュートラリス]]
 - [[The Hanged King　／　絞首刑の王]]
@@ -52,4 +52,7 @@
 - [[Tainted Stars　／　テインテッド・スターズ]]
 - [[Endless Unmaker　／　エンドレス・アンメーカー]]
 - [[Silentroom　／　サイレントルーム]]
-- [[Hyper Light Drifter]]
+- [[Hyper Light Drifter　／　ハイパー・ライト・ドリフター]]
+- [[Pulp Fiction　／　パルプ・フィクション]]
+- [[Ultrakill　／　ウルトラキル]]
+- Parasyte
