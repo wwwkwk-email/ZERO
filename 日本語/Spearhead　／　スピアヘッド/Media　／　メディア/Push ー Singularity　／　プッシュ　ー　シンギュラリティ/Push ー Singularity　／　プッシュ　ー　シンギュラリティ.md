@@ -55,4 +55,4 @@
 - [[Hyper Light Drifter　／　ハイパー・ライト・ドリフター]]
 - [[Pulp Fiction　／　パルプ・フィクション]]
 - [[Ultrakill　／　ウルトラキル]]
-- Parasyte
+- [[Parasyte　／　寄生獣]]
