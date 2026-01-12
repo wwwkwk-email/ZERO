@@ -1,2 +1,2 @@
 [[Deltarune　／　デルタルーン]]
-[[Undertale　／　アンダーテール]]
+[[Undertale　／　アンダーテイル]]

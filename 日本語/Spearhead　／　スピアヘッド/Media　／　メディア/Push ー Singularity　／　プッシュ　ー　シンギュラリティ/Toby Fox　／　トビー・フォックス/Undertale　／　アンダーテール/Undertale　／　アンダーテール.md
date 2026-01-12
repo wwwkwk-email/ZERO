@@ -1,8 +1,0 @@
-[[0. Undertale：Zero　／　アンダーテール：ゼロ]]
-[[1. Undertale：One　／　アンダーテール：ワン]]
-[[Handplates]]
-[[Fallen Stars]]
-[[Underfell]]
-[[Underswap]]
-[[Undertale Soundcloud]]
-[[XTale]]
