@@ -56,3 +56,4 @@
 - [[Pulp Fiction　／　パルプ・フィクション]]
 - [[Ultrakill　／　ウルトラキル]]
 - [[Parasyte　／　寄生獣]]
+- [[Gravity Daze　／　グラビティ・デイズ]]

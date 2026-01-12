@@ -20,3 +20,4 @@
 - [[GUNSMITH CATS]]
 - [[RPGMAKER]]
 - [[HOLOLIVE]]
+- [[GRAVITY RUSH]]

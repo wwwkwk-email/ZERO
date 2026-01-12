@@ -11,4 +11,4 @@
 - [[Five Nights at Freddy's：Help Wanted 2　／　ファイブ・ナイツ・アット・フレディーズ：ヘルプ・ウォンテッド・２]]
 - [[FNaF World　／　FNaF ワールド]]
 - [[Ultimate Custom Night　／　アルティメット・カスタム・ナイト]]
-[[Five Nights at Freddy's：Derivatives]]
+[[Five Nights at Freddy's：Derivatives　／　ファイブ・ナイツ・アット・フレディーズ：デリバティブズ]]
