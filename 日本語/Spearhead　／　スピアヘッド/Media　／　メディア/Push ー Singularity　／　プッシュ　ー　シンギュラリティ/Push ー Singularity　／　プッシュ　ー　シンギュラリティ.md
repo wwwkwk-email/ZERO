@@ -6,7 +6,7 @@
 - [[Zero's Debt　／　ゼローズ・デット]]
 - [[Neverborn × Everborn『NV／EV』　／　ネヴァーボーン　×　エヴァーボーン（エンビー／イービー）]]
 - [[ENATowne　／　エナタウン　／　エナタウヌ]]
-- [[Weeping Sea　／　ウィーピング・シー]]：　
+- [[Weeping Sea　／　ウィーピング・シー]]
 - [[Heartstring　／　ハートストリング]]
 - [[The Girl Who Calls Herself God　／　神と名乗る少女]]
 - [[Raven Daze　／　大鴉デイズ]]
@@ -57,3 +57,4 @@
 - [[Ultrakill　／　ウルトラキル]]
 - [[Parasyte　／　寄生獣]]
 - [[Gravity Daze　／　グラビティ・デイズ]]
+- Pokémon 
