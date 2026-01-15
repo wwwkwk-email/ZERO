@@ -57,4 +57,9 @@
 - [[Ultrakill　／　ウルトラキル]]
 - [[Parasyte　／　寄生獣]]
 - [[Gravity Daze　／　グラビティ・デイズ]]
-- Pokémon 
+- [[Pokémon　／　ポケットモンスター]]
+- [[I Have No Mouth and I Must Scream　／　アイ・ハブ・ノー・マウス、アンド・アイ・マースト・スクレーム]]
+- [[Blood Meridian Or the Evening Redness in the West　／　ブラッド・メリディアン]]
+- [[All Tomorrows　／　オール・トゥモローズ]]
+- [[AU：Alternate Universe　／　エーユー：オルタネイト・ユニヴァース]]
+- [[Berserk　／　ベルセルク]]
