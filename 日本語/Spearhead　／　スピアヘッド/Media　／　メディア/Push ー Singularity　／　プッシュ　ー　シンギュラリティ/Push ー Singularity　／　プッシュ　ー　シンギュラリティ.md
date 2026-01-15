@@ -68,3 +68,5 @@
 - [[The Lord of the Rings　／　ロード・オブ・ザ・リング]]
 - [[The Hobbit or There and Back Again　／　ホビットの冒険]]
 - [[Black Hole　／　ブラックホール]]
+- [[Newgrounds　／　ニューグラウンズ]]
+- [[Valve Corporation　／　バルブ・コーポレーション]]
