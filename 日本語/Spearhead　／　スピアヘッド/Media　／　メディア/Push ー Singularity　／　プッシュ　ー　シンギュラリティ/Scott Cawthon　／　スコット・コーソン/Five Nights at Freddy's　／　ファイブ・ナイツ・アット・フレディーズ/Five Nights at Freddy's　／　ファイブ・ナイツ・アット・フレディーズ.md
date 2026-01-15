@@ -9,6 +9,6 @@
 [[8. Five Nights at Freddy's：Secret of the Mimic　／　ファイブ・ナイツ・アット・フレディーズ：シークレット・オブ・ザ・ミミック]]
 - [[Five Nights at Freddy's：Help Wanted　／　ファイブ・ナイツ・アット・フレディーズ：ヘルプ・ウォンテッド]]
 - [[Five Nights at Freddy's：Help Wanted 2　／　ファイブ・ナイツ・アット・フレディーズ：ヘルプ・ウォンテッド・２]]
-- [[FNaF World　／　FNaF ワールド]]
+- [[FNaF World　／　FNaF・ワールド]]
 - [[Ultimate Custom Night　／　アルティメット・カスタム・ナイト]]
 [[Five Nights at Freddy's：Derivatives　／　ファイブ・ナイツ・アット・フレディーズ：デリバティブズ]]
