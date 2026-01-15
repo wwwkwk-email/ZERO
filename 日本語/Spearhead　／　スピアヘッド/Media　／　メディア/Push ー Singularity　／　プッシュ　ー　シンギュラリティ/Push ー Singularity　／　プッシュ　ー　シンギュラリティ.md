@@ -18,7 +18,7 @@
 - [[Neutralis　／　ニュートラリス]]
 - [[The Hanged King　／　絞首刑の王]]
 - [[Queen-B Syndrome　／　クイーン−Ｂ・シンドローム]]
-- [[Bizarre Alien Legacy　／　ビザル エイリアンヌ レガシー]]
+- [[Bizarre Alien Legacy　／　ビザル・エイリアンヌ・レガシー]]
 - [[Spirit Droid Fools　／　ストレイ・ドロイド・フールス]]
 - [[Spirit Realm Skirmish　／　スピリット・レルム・スカーミッシュ]]
 - [[Spirit Realm Fools　／　スピリット・レルム・フールス]]
