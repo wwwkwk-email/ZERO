@@ -1,4 +1,5 @@
 [[0. ENATowne：ZERO　／　エナタウン：ゼロ　／　エナタウヌ：ゼロ]]
+[[0. ENA：ZERO　／　エナ：ゼロ　／　エナ：ゼロ]]
 [[1. Auction Day　／　オークション・デイ]]
 [[2. Extinction Party　／　エクスティンクション・パーチー]]
 [[3. Temptation Stairway　／　テンプテーション・ステアウェイ]]
