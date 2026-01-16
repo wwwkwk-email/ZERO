@@ -1,5 +1,0 @@
-[[0. Deltarune：Zero　／　デルタルーン：ゼロ]]
-[[1. Deltarune：One　／　デルタルーン：ワン]]
-[[2. Deltarune：Two　／　デルタルーン：トゥー]]
-[[3. Deltarune：Three　／　デルタルーン：スリー]]
-[[4. Deltarune：Four　／　デルタルーン：フォー]]

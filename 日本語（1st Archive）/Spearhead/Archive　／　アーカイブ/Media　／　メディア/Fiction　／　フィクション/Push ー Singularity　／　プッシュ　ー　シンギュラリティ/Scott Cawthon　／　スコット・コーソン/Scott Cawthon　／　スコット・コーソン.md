@@ -1,1 +1,0 @@
-[[Five Nights at Freddy's　／　ファイブ・ナイツ・アット・フレディーズ]]

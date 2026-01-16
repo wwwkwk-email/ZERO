@@ -7,9 +7,9 @@ aliases:
 - Industries　／　インダストリーズ
 - Character　／　キャラクター
 
-- [[Singularity　／　特異点]]
-- [[Archive　／　アーカイブ]]
-	- [[Media　／　メディア]]
-		- [[Fiction　／　フィクション]]
-- [[Internet　／　インターネット]]
-- [[License　／　ライセンス]]
+- [[Singularity]]
+- [[Archive]]
+	- [[Media]]
+		- [[Fiction]]
+- [[Internet]]
+- [[日本語（1st Archive）/Spearhead/License/License]]

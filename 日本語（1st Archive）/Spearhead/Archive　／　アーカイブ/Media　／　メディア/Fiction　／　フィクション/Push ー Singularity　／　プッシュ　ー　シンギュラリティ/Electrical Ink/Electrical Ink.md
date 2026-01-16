@@ -1,1 +1,0 @@
-[[The Church of Null　／　ザ・チャーチ・オブ・ヌル]]
