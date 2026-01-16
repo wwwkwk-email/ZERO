@@ -3,14 +3,16 @@
     "【JP】suffix": {
       "idFormat": "12",
       "idDisplayMode": "hide",
-      "showCustomSuffix": true,
-      "customSuffix": "【JP】",
+      "showCustomSuffix": false,
+      "customSuffix": "",
       "customColor": "#4b0082",
       "enableCustomColor": false,
       "onlyEnabledFolders": true,
-      "enabledFolders": [],
-      "showCustomPrefix": false,
-      "customPrefix": "[Z] ",
+      "enabledFolders": [
+        "ENGLISH/"
+      ],
+      "showCustomPrefix": true,
+      "customPrefix": "【Archive】",
       "showCustomFileIcon": false,
       "customFileIcon": "🧠"
     }

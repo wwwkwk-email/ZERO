@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1863a110a88cae35",
+        "id": "b47c27dc1c28a2c9",
         "type": "tabs",
         "children": [
           {
-            "id": "ce91233b04dbd0a6",
+            "id": "5c3d6d4345d4e00e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Push ー Singularity　／　プッシュ　ー　シンギュラリティ.md",
+                "file": "日本語（1st Archive）/Spearhead　／/Spearhead.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Push ー Singularity　／　プッシュ　ー　シンギュラリティ"
-            }
-          },
-          {
-            "id": "be577eba5ad02068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LICENSE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LICENSE"
+              "title": "Spearhead"
             }
           }
         ]
@@ -119,8 +105,8 @@
         "state": {
           "type": "trash-explorer",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "trash-explorer"
+          "icon": "trash",
+          "title": "Trash explorer"
         }
       }
     ],
@@ -136,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Push ー Singularity　／　プッシュ　ー　シンギュラリティ.md",
+            "file": "ENGLISH/【Archive】SPEARHEAD (90275)/【Archive】MEDIA/【Archive】PUSH ー SINGULARITY/【Archive】HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/【Archive】0. HYPERCROSS：ZERO/【Archive】ULTIMATE REALITY/【Archive】1. THE WILL OF GOD/【Archive】FINAL RAPTURE/【Archive】FINAL RAPTURE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,43 +179,44 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ce91233b04dbd0a6",
+  "active": "b863b94e41e30d6d",
   "lastOpenFiles": [
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Jump　／　ジャンプ/Gege Akutami　／　芥見下々/Gege Akutami　／　芥見下々.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Jump　／　ジャンプ/Tatsuki Fujimoto　／　藤本タツキ/Tatsuki Fujimoto　／　藤本タツキ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Jump　／　ジャンプ/Tatsuki Fujimoto　／　藤本タツキ",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Push ー Singularity　／　プッシュ　ー　シンギュラリティ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Jump　／　ジャンプ/Jump　／　ジャンプ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Shueisha Inc.　／　株式会社集英社.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Jump　／　ジャンプ",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/The Hobbit or There and Back Again　／　ホビットの冒険.md",
-    "README.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Jump　／　ジャンプ/Gege Akutami　／　芥見下々",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Cormac McCarthy　／　コーマック・マッカーシー/Cormac McCarthy　／　コーマック・マッカーシー.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Cormac McCarthy　／　コーマック・マッカーシー/No Country for Old Men　／　ノーカントリー.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Cormac McCarthy　／　コーマック・マッカーシー",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Cormac McCarthy　／　コーマック・マッカーシー/Blood Meridian　／　ブラッド・メリディアン/Blood Meridian　／　ブラッド・メリディアン.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Cormac McCarthy　／　コーマック・マッカーシー/Blood Meridian　／　ブラッド・メリディアン/The Evening Redness in the West　／　ザ・イブニング・レッドネス・イン・ザ・ウェスト.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Cormac McCarthy　／　コーマック・マッカーシー/Blood Meridian　／　ブラッド・メリディアン",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Hypercross　／　ハイパークロス/Hypercross　／　ハイパークロス.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Learning with Grace　／　ラーニング・ウィズ・グレース.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Raven Daze　／　大鴉デイズ/Raven Daze　／　大鴉デイズ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Quentin Tarantino　／/The Hateful Eight　／.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Quentin Tarantino　／/Quentin Tarantino　／.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Quentin Tarantino　／",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Glitch Productions　／　グリッチ/Glitch Productions　／　グリッチ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Joel Guerra　／　ジョエル・ゲラ/Ena　／　エナ/0. ENATowne：ZERO　／　エナタウン：ゼロ　／　エナタウヌ：ゼロ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/AI Singularity　／　AI・シングレラティ.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Electrical Ink/The Church of Null　／　ザ・チャーチ・オブ・ヌル/Vol. 2.5 Addendum　／　第2.5巻補遺/Vol. 2.5 Addendum　／　第2.5巻補遺.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Electrical Ink/The Church of Null　／　ザ・チャーチ・オブ・ヌル/Vol. 2.5 Addendum　／　第2.5巻補遺",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Electrical Ink/The Church of Null　／　ザ・チャーチ・オブ・ヌル/The Church of Null　／　ザ・チャーチ・オブ・ヌル.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Electrical Ink/The Church of Null　／　ザ・チャーチ・オブ・ヌル/[Our Cynosure　／　アウア・シノシュア.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Electrical Ink/The Church of Null　／　ザ・チャーチ・オブ・ヌル/Vol. 2.5 Addendum　／　第2.5巻補遺/Our Cynosure　／　アウア・シノシュア/The Endless Unmaker　／　ザ・エンドレス・アンメーカー.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Electrical Ink/The Church of Null　／　ザ・チャーチ・オブ・ヌル",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Electrical Ink/Electrical Ink.md",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Electrical Ink",
-    "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Electrical Ink/The Church of Null　／　ザ・チャーチ・オブ・ヌル/Vol. 2.5 Addendum　／　第2.5巻補遺/Our Cynosure　／　アウア・シノシュア/Our Cynosure　／　アウア・シノシュア.md",
+    "日本語（1st Archive）/Spearhead　／/Spearhead　／.md",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Push ー Singularity　／　プッシュ　ー　シンギュラリティ.md",
+    "日本語（1st Archive）/Spearhead　／/Media　／　メディア/Media　／　メディア.md",
+    "ENGLISH（2nd Archive）/Media/Media.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/Push ー Singularity.md",
+    "ENGLISH（2nd Archive）/Spearhead/Spearhead.md",
+    "日本語（1st Archive）/Spearhead　／/Spearhead.md",
+    "ENGLISH（2nd Archive）/ENGLISH（2nd Archive）.md",
+    "日本語（1st Archive）/日本語（1st Archive）.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0. Hypercross：Zero/Ultimate Reality/0. Anarchy King/0. Anarchy King.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/Dictionary/Dictionary.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0. Hypercross：Zero/Ultimate Reality/Ultimate Reality.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0. Hypercross：Zero/Ultimate Reality/1. The Will of God/Final Rapture/Final Rapture.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0. Hypercross：Zero/Ultimate Reality/1. The Will of God/1. The Will of God.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/0. Limbo Girl/0. Limbo Girl.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/0. Limbo Girl/0. Limbo/0. Limbo.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/0. Limbo Girl/0. Limbo/1. Eternity/1. Eternity.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/0. Limbo Girl/0. Limbo/0. Zero/0. Zero.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/0. Limbo Girl/1. Inversion/1. Inversion.md",
+    "（ENGLISH）2nd Archive/【Archive】SPEARHEAD (90275)/【Archive】MEDIA/【Archive】PUSH ー SINGULARITY/0. Limbo Girl/1. INVERSION/1. Inversion.md",
+    "（ENGLISH）2nd Archive/【Archive】SPEARHEAD (90275)/【Archive】MEDIA/【Archive】PUSH ー SINGULARITY/0. Limbo Girl/1. INVERSION",
+    "（ENGLISH）2nd Archive/【Archive】SPEARHEAD (90275)/【Archive】MEDIA/【Archive】PUSH ー SINGULARITY/【Archive】0. LIMBO GIRL/【Archive】1. INVERSION/Untitled.md",
+    "ENGLISH（2nd Archive）/Push ー Singularity/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0. Hypercross：Zero/0. Hypercross：Zero.md",
+    "ENGLISH/【Archive】SPEARHEAD (90275)/【Archive】MEDIA/【Archive】PUSH ー SINGULARITY/【Archive】HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/【Archive】0. HYPERCROSS：ZERO/【Archive】ULTIMATE REALITY/【Archive】1. THE WILL OF GOD/【Archive】FINAL RAPTURE/【Archive】FINAL RAPTURE.md",
+    "ENGLISH/【Archive】SPEARHEAD (90275)/【Archive】MEDIA/【Archive】PUSH ー SINGULARITY/【Archive】HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/【Archive】0. HYPERCROSS：ZERO/【Archive】ULTIMATE REALITY/【Archive】1. THE WILL OF GOD/【Archive】1. THE WILL OF GOD.md",
+    "ENGLISH/【Archive】SPEARHEAD (90275)/【Archive】MEDIA/【Archive】PUSH ー SINGULARITY/【Archive】HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/【Archive】0. HYPERCROSS：ZERO/【Archive】ULTIMATE REALITY/【Archive】ULTIMATE REALITY.md",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/ZUN/東方Project",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/ZUN",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Jump　／　ジャンプ/Tatsuki Fujimoto　／　藤本タツキ",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Jump　／　ジャンプ",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Shueisha Inc.　／　株式会社集英社/Jump　／　ジャンプ/Gege Akutami　／　芥見下々",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Cormac McCarthy　／　コーマック・マッカーシー",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Cormac McCarthy　／　コーマック・マッカーシー/Blood Meridian　／　ブラッド・メリディアン",
+    "日本語（1st Archive）/Spearhead　／/Push ー Singularity　／　プッシュ　ー　シンギュラリティ/Quentin Tarantino　／　クエンティン・タランティーノ",
     "Untitled.canvas"
   ]
 }
