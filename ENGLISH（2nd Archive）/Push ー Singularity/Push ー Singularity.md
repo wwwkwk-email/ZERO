@@ -2,7 +2,7 @@
 - [[Dictionary]]
 - [[Hypercross：Ultimate Reality『Anarchy King ― The Will of God』]]
 - [[NEVERBORN × EVERBORN 『NV／EV』]]
-- [[THE （DIGITAL） SEA]]
+- [[The（Digital）Sea]]
 - [[THE BIBLE]]
 - [[THE WEEPING SEA]]
 - [[UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN]]

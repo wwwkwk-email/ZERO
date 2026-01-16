@@ -6,8 +6,10 @@ aliases:
 - Project　／　プロジェクト
 - Industries　／　インダストリーズ
 - Character　／　キャラクター
-- [[Media　／　メディア]]
+
 - [[Singularity　／　特異点]]
-- [[Fiction　／　フィクション]]
 - [[Archive　／　アーカイブ]]
+	- [[Media　／　メディア]]
+		- [[Fiction　／　フィクション]]
 - [[Internet　／　インターネット]]
+- [[License　／　ライセンス]]
