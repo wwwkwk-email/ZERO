@@ -30,4 +30,4 @@ aliases:
 - [[Edgar Allan Poe]]
 - [[Shueisha Inc.]]
 - [[ZUN]]
-- Push ー Singularity　／　プッシュ　ー　シンギュラリティ
+- [[Push ー Singularity]]

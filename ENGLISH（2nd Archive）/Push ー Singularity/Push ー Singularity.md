@@ -1,3 +1,7 @@
+---
+aliases:
+  - プッシュ　ー　シンギュラリティ
+---
 - [[0. Limbo Girl]]
 - [[Dictionary]]
 - [[Hypercross：Ultimate Reality『Anarchy King ― The Will of God』]]
