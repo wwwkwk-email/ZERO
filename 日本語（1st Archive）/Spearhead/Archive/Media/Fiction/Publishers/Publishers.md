@@ -1,0 +1,33 @@
+---
+aliases:
+  - 著者
+---
+- [[Hypercross]]
+- [[Electrical Ink]]
+- [[Onimai：I'm Now Your Sister!]]
+- [[Junji Ito]]
+- [[Toby Fox]]
+- [[Scott Cawthon]]
+- [[Joel Guerra]]
+- [[Glitch Productions]]
+- [[rose-engine]]
+- [[Hotline 024]]
+- [[Silentroom]]
+- [[Hyper Light Drifter]]
+- [[Quentin Tarantino]]
+- [[Ultrakill]]
+- [[Parasyte]]
+- [[Gravity Daze]]
+- [[Pokémon]]
+- [[I Have No Mouth, and I Must Scream]]
+- [[Cormac McCarthy]]
+- [[All Tomorrows]]
+- [[Berserk]]
+- [[The Lord of the Rings]]
+- [[The Hobbit or There and Back Again]]
+- [[Newgrounds]]
+- [[Valve Corporation]]
+- [[Edgar Allan Poe]]
+- [[Shueisha Inc.]]
+- [[ZUN]]
+- Push ー Singularity　／　プッシュ　ー　シンギュラリティ

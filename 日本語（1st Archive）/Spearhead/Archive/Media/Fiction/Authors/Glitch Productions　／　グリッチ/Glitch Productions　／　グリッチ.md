@@ -1,2 +1,0 @@
-- [[The Amazing Digital Circus　／　ザ・アメイジング・デジタル・サーカス]]
-- [[Murder Drones　／　マーダー・ドローンズ]]

@@ -1,1 +1,1 @@
-[[ULTRA−SIGNALIS (B）]]
+[[Ultra−Signalis (B）]]

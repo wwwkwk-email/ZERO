@@ -1,1 +1,0 @@
-[[The Evening Redness in the West　／　ザ・イブニング・レッドネス・イン・ザ・ウェスト]]

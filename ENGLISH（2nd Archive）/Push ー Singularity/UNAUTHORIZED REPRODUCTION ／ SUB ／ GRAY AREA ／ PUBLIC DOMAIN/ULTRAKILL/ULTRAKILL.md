@@ -1,3 +1,7 @@
+---
+aliases:
+  - ウルトラキル
+---
 - [[0. ULTRAKILL：ZERO]]
 - [[1. ULTRAKILL：ONE]]
 - [[ULTRA−KILL]]
