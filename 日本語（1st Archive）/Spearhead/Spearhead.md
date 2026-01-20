@@ -17,4 +17,5 @@ aliases:
 - [[Video Games]]
 - [[Internet]]
 - [[日本語（1st Archive）/Spearhead/License/License]]
+- [[LICENSE]]
 - [[README]]
