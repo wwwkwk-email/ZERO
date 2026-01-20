@@ -2,7 +2,8 @@
 aliases:
   - 著者
 ---
-- [[Hypercross]]
+- [[Hypercross：Ultimate Reality『Anarchy King ― The Will of God』]]
+
 - [[Electrical Ink]]
 - [[Onimai：I'm Now Your Sister!]]
 - [[Junji Ito]]

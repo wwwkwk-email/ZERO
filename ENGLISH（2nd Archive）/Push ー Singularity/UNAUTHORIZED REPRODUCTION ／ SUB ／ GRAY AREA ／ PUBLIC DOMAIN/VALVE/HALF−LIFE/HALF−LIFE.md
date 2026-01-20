@@ -1,6 +1,0 @@
-- [[0. HALF−LIFE：ZERO]]
-- [[1. HALF−LIFE：ONE]]
-- [[2. HALF−LIFE：TWO]]
-- [[3. HALF−LIFE：THREE]]
-- [[A. HALF−LIFE：ALYX]]
-- [[X. HALF−LIFE：X]]

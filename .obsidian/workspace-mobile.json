@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語（1st Archive）/Spearhead/Spearhead.md",
+                "file": "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/The Girl Who Calls Herself God.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spearhead"
+              "title": "The Girl Who Calls Herself God"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "heartstr",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Authors/Joel Guerra/Ena/4. Dream BBQ/4. Dream BBQ.md",
+            "file": "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross/Ultimate Reality/Ultimate Reality.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,32 +181,34 @@
   },
   "active": "19f30f45fb7abfbd",
   "lastOpenFiles": [
-    "README.md",
-    "日本語（1st Archive）/Spearhead/Spearhead.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Fiction.md",
-    "日本語（1st Archive）/Spearhead/Internet/Internet.md",
-    "日本語（1st Archive）/Spearhead/Archive/Archive.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Media.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/0.  Hypercross：Zero.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/1. Hypercross：One/HEARTSTRING(2)/HEARTSTRING(2).md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/1. Hypercross：One/1. Hypercross：One.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Heartstring.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Publishers.md",
-    "ENGLISH（2nd Archive）/Push ー Singularity/Push ー Singularity.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/ZUN/ZUN.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Shueisha Inc./Shueisha Inc..md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Edgar Allan Poe/Edgar Allan Poe.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Valve Corporation.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/The Hobbit or There and Back Again.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Newgrounds.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/The Lord of the Rings.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Berserk.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/All Tomorrows.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Cormac McCarthy/Cormac McCarthy.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Cormac McCarthy/No Country for Old Men.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Cormac McCarthy/Blood Meridian/Blood Meridian.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Cormac McCarthy/Blood Meridian/The Evening Redness in the West.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/I Have No Mouth, and I Must Scream.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Pokémon.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Gravity Daze.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Parasyte/Parasyte.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Parasyte/Parasyte：The Grey.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Fiction.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Weeping Sea/Weeping Sea.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/【JP】Bizarre Alien Legacy.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NV×EV：Neverborn × Everborn.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Weeping Sea/Rococo & Harriet：Hell.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Weeping Sea/Claus & May：Ark.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/THE WEEPING SEA/THE WEEPING SEA.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/Push ー Singularity.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/ENATowne.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/ENATowne（MEMORY）/0. ENATowne：ZERO.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Zero's Debt.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Emergence of Calamity.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/9 Million Cycles.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/The King in Yellow.md",
+    "ENGLISH（2nd Archive）/ENGLISH（2nd Archive）.md",
+    "日本語（1st Archive）/Spearhead/Spearhead.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/Ultimate Reality.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/『Anarchy King』.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『The Will of God』/『The Will of God』.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『The Will of God』",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hotline 024",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/rose-engine/Signalis/NEUTRALIS（SIGNALIS）",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/rose-engine/Signalis/ULTRA−SIGNALIS (B）",
@@ -215,8 +217,6 @@
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/rose-engine/Signalis/9 MILLION CYCLES（SIGNALIS）",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/rose-engine/Signalis/1. SIGNALIS：ONE",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/rose-engine/Signalis/0. SIGNALIS：ZERO",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/rose-engine/Signalis",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Joel Guerra/Ena/5. Power of Potluck",
     "Untitled.canvas"
   ]
 }
