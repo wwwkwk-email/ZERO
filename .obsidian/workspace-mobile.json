@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Publishers.md",
+                "file": "日本語（1st Archive）/日本語（1st Archive）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Publishers"
+              "title": "日本語（1st Archive）"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "heartstr",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -181,8 +181,9 @@
   },
   "active": "19f30f45fb7abfbd",
   "lastOpenFiles": [
-    "日本語（1st Archive）/Spearhead/Spearhead.md",
+    "0. ARCHIVE/Character Ideas.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Publishers.md",
+    "日本語（1st Archive）/Spearhead/Spearhead.md",
     "日本語（1st Archive）/Spearhead/Archive/Archive.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Fiction.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/The Girl Who Calls Herself God.md",
@@ -206,7 +207,6 @@
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/9 Million Cycles.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/The King in Yellow.md",
     "ENGLISH（2nd Archive）/ENGLISH（2nd Archive）.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/Ultimate Reality.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『The Will of God』",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hotline 024",
