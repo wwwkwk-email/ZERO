@@ -32,3 +32,5 @@ aliases:
 - [[Shueisha Inc.]]
 - [[ZUN]]
 - [[Push ー Singularity]]
+- [[Psychopomp]]
+- Fading Club
