@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "gut",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -110,7 +110,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fc13efa885345808",
@@ -181,8 +181,11 @@
   },
   "active": "19f30f45fb7abfbd",
   "lastOpenFiles": [
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Psychopomp.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/1. Hypercross：One/A BOY NAMED GUTS/A BOY NAMED GUTS.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Publishers.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/RPGMAKER/RPGMAKER.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/RPGMAKER/SOUNDING STONE/SOUNDING STONE.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Psychopomp.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Stray Droid Fools　／　ストレイ・ドロイド・フールス.md",
     "LICENSE.md",
     "日本語（1st Archive）/Spearhead/License/License.md",
@@ -204,9 +207,6 @@
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Weeping Sea/Rococo & Harriet：Hell.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Weeping Sea/Claus & May：Ark.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/THE WEEPING SEA/THE WEEPING SEA.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/Push ー Singularity.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/ENATowne.md",
-    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/ENATowne（MEMORY）/0. ENATowne：ZERO.md",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『The Will of God』",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』",
     "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hotline 024",
