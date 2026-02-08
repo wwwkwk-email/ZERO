@@ -34,3 +34,7 @@ aliases:
 - [[Push ー Singularity]]
 - [[Psychopomp]]
 - Fading Club
+- [[The Little Prince]]
+- [[Lasah]]
+- [[sasakure.UK]]
+- [[Mili]]
