@@ -1,4 +1,4 @@
-- [[REVENGEANCE]]
+- [[REVENGEANCE (ONE)]]
 
 - CHE ／ GUE
 - ARIACHI：The Lionheart

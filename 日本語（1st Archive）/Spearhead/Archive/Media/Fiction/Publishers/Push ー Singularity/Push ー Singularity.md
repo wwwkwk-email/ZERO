@@ -9,4 +9,4 @@ aliases:
 - [[The（Digital）Sea]]
 - [[THE BIBLE]]
 - [[THE WEEPING SEA]]
-- [[UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN]]
+- [[Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain]]

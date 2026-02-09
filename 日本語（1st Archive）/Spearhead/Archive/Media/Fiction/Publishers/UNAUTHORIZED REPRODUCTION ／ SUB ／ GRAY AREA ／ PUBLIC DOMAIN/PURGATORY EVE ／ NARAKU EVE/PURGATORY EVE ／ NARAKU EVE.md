@@ -1,3 +1,3 @@
 - [[PURGATORY × PURGATORY]]
-- [[EVE × EVE]]
-- [[THE LONE RESIDENT OF HEAVEN（EVE）]]
+- [[Eve × Eve]]
+- [[The Lone Resident Of Heaven（Eve）]]

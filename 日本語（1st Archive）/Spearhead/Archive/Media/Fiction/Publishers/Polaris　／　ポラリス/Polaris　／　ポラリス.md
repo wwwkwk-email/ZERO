@@ -1,1 +1,0 @@
-[[The North Star　／　北極星]]

@@ -7,7 +7,7 @@ aliases:
 - Industries　／　インダストリーズ
 - Character　／　キャラクター
 [[Spearhead]]
-- [[Singularity]]
+- [[日本語（1st Archive）/Spearhead/Singularity/Singularity]]
 - [[Archive]]
 - [[Media]]
 - [[Fiction]]

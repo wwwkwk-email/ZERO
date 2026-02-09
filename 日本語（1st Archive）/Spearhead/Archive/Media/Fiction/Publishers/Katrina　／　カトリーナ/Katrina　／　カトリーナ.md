@@ -1,1 +1,0 @@
-[[God of Sleep & Dreams　／　眠りと夢のゴッド]]

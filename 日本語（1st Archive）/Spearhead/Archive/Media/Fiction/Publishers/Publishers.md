@@ -33,7 +33,7 @@ aliases:
 - [[ZUN]]
 - [[Push ー Singularity]]
 - [[Psychopomp]]
-- Fading Club
+- [[Fading Club]]
 - [[The Little Prince]]
 - [[Lasah]]
 - [[sasakure.UK]]

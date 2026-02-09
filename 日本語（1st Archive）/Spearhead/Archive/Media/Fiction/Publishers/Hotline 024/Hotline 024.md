@@ -2,8 +2,8 @@
 aliases:
   - ホットライン・024
 ---
-- [[SUNSET HILLS]]
-- [[SAKURA MIX]]
+- [[Sunset Hills]]
+- [[Sakura Mix]]
 
 - ANARCHY 024
 - ARCHIVE 024
@@ -12,16 +12,16 @@ aliases:
 - XP 024
 - HOTLINE 2024
 - OPERATION 024
-- [[DREAMFIELD MANIA 024]]
+- [[Dreamfield Mania 024]]
 - THE CRIMSON PORT 024
 - THE SCARLET PORT 024
 - THE SCARLET DEVIL 024
 - THE RED PORT 024
 - THE GOLDEN PORT 024
 - THE GOLDEN DEVIL 024
-- [[TEARS OF THE DEAD STAR（HOTLINE 024）]]
-- [[INTERSTELLAR RIVERS]]
+- [[Tears of The Dead Star（Hotline 024）]]
+- [[Interstellar Rivers]]
 - [[HYPERPUNK 024]]
-- [[HYPERCROSS 024]]
+- [[Hypercross 024]]
 
-- [[IMPOSSIBLE]]
+- [[Impossible]]
