@@ -4,4 +4,4 @@ aliases:
   - 『アナーキー・キング』
 ---
 [[0. The City of God]]
-[[1. THE ARRIVAL OF GOD]]
+[[1. The Arrival of God]]
