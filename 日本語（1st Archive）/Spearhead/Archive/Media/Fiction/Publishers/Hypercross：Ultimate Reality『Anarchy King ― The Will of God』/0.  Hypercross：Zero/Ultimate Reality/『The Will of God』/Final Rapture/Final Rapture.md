@@ -1,4 +1,4 @@
-- [[THE　FIRST　END]]
-- [[THE　UNBORN]]
+- [[The First End]]
+- [[The Unborn]]
 - [[THEORY　OF　EVOLUTION]]
 - [[The Final End]]
