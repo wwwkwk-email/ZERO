@@ -6,7 +6,7 @@ aliases:
 A collection of several unnamed projects centered around anthropomorphic lifeforms inhabiting a post-human ocean world．
 人類滅亡後の海洋世界に生息する擬人化された生命体を中心とした、いくつかの名前のないプロジェクトのコレクション。
 - THE REMAINING ISLES
-- IN THE SKY
+- in the sky
 - [[HYPERーSONIC]]
 - [[Rococo & Harriet：Hell]]
 - [[Claus & May：Ark]]
