@@ -4,6 +4,7 @@
 - GREY： The Grey Star
 - CRIMSON： The Crimson Star
 - SUN： The Sun
+- RUNA： The Moon
 - JACKIE： The Orange Star
 - MINNIE： The Orange Dwarf
 - CLAUS
